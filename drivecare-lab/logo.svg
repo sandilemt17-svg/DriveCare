@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 72" role="img" aria-labelledby="title desc">
+  <title id="title">DriveCare</title>
+  <desc id="desc">A bold car profile beside the DriveCare wordmark.</desc>
+  <g fill="none" stroke="#26372d" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 39c7-8 16-12 30-15l50-10c22-4 45-3 65 4l34 13c12 1 20 3 26 7l10 7" stroke-width="3.5"/>
+    <path d="M7 39c-1 4 1 8 5 9l24 2m19 0 80 1m20 0 28 1m24-1 15 1" stroke-width="3.5"/>
+    <path d="m68 26 23-7c18-4 37-3 54 3l24 9-83-1c-8 0-14-1-18-4Z" stroke-width="2.5"/>
+    <path d="M34 50c2-10 9-16 19-16s18 6 20 17m102 1c2-10 9-16 19-16s18 6 20 17" stroke-width="3"/>
+    <path d="m130 24 12 2m-70 2 6 1" stroke-width="3.5"/>
+  </g>
+  <text x="246" y="37" fill="#26372d" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="-.55">DriveCare</text>
+  <text x="248" y="54" fill="#71806f" font-family="Segoe UI, Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="2.2">VEHICLE SERVICE GUIDE</text>
+</svg>
