@@ -42,9 +42,6 @@ Open `http://127.0.0.1:4173`. Vite serves the interface; it proxies `/api` reque
 
 Each selected symptom contributes points to a small set of technician checks. The app sums points for matching checks, ranks them, and shows the top three. These scores are only a way to order this demo's rules. They are not fault probabilities or a diagnosis. The same TypeScript rule module is used by the browser and server.
 
-## Interview explanation
-
-> “I built a small full-stack service-intake app. The React and TypeScript interface collects a few structured symptoms. An Express API validates those inputs, runs a transparent rule set, and stores the result in SQLite. I kept the recommendations deterministic and explainable, added basic input validation and a print view, and made the limits clear because it is not a real diagnostic system.”
 
 ## Project layout
 
